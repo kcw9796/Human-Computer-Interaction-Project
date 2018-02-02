@@ -1,2 +1,2 @@
-# Human-Computer-Interaction-Project
+# Human Computer Interaction Project
 User interface for a sleep application 
